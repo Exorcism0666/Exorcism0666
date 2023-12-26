@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: ThaUnknown
+          user: Exorcism0666
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
