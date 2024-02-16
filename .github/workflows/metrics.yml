@@ -74,7 +74,7 @@ jobs:
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_repositories_featured: saveweb/wikiteam3, saveweb/DokuWiki-Dumper
+          plugin_repositories_featured: Exorcism0666/AutoPublish, microsoft/winget-pkgs, PckgrBot/winget-pkgs-private
           plugin_skyline: yes
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
