@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.14k added, 147 removed
+                                    4.16k added, 390 removed
                                 </div>
                             </section>
                             <section>
@@ -702,7 +702,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~19.75
+                            Average per day at ~19.76
                         </div>
                     </section>
                 </div>
@@ -1611,10 +1611,10 @@
                             </g>
                         </g>
                         <g transform="translate(40.8, 24)">
-                            <g transform="translate(0, 5.877133105802048)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1228668941979523 0,1.1228668941979523 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1228668941979523 1.7,2.1228668941979523 z"/>
+                            <g transform="translate(0, 5.8668941979522184)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1331058020477816 0,1.1331058020477816 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1331058020477816 1.7,2.1331058020477816 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.6416382252559725)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1823,7 +1823,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustreleaser-org/rustreleaser</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deliver Rust binaries as fast and easily as possible. Heavily inspired by @goreleaser. Please note that the project is in development stage, so breaking changes are expected. It is advised to not to use in production before v1.0.0 is released.</div>
@@ -1876,7 +1876,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustreleaser-org/rustreleaser-action</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action for RustReleaser</div>
@@ -2804,7 +2804,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 140k out of 90.4m repositories</span>
+                                    <span class="gh">ranked 140k out of 90.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 300 stars</div>
                             </div>
@@ -3068,7 +3068,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 23 Mar 2024, 02:18:36
+                            On 23 Mar 2024, 02:18:50
                         </div>
                     </section>
                 </div>
@@ -3078,14 +3078,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            New version: BinanceTech.Binance version 1.50.4
+                            New version: StandardNotes.StandardNotes version 3.192.4
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">c5d933a6</span>
-                            <span class="code">manifests/b/BinanceTech/Binance/1.50.4/BinanceTech.Binance.yaml</span>
+                            <span class="code">ad454299</span>
+                            <span class="code">manifests/s/StandardNotes/StandardNotes/3.192.4/StandardNotes.StandardNotes.yaml</span>
                             <span class="code">
                                 <span class="snippet additions">++8</span>
                                 <span class="snippet deletions">--0</span>
@@ -3096,7 +3096,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Created with komac v2.1.1<br /></span><span class="token prefix inserted">+</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">PackageIdentifier: BinanceTech.Binance<br /></span><span class="token prefix inserted">+</span><span class="token line">PackageVersion: 1.50.4<br /></span><span class="token prefix inserted">+</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix inserted">+</span><span class="token line">ManifestType: version<br /></span><span class="token prefix inserted">+</span><span class="token line">ManifestVersion: 1.6.0
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Created with komac v2.1.1<br /></span><span class="token prefix inserted">+</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">PackageIdentifier: StandardNotes.StandardNotes<br /></span><span class="token prefix inserted">+</span><span class="token line">PackageVersion: 3.192.4<br /></span><span class="token prefix inserted">+</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix inserted">+</span><span class="token line">ManifestType: version<br /></span><span class="token prefix inserted">+</span><span class="token line">ManifestVersion: 1.6.0
 </span></span></code>
                         </div>
                     </section>
@@ -3104,7 +3104,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2024, 19:14:49 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Mar 2024, 20:10:07 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
