@@ -527,7 +527,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        3.90k
+                                        3.91k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2865,7 +2865,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 140k out of 200m repositories</span>
+                                    <span class="gh">ranked 140k out of 163m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 304 stars</div>
                             </div>
@@ -3129,7 +3129,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 11 Apr 2024, 17:19:38
+                            On 11 Apr 2024, 17:16:37
                         </div>
                     </section>
                 </div>
@@ -3139,14 +3139,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Remove version: P-StSoftware.WinSSHTerm version 2.28.0
+                            Remove version: PostgreSQL.pgAdmin version 8.2
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">f604b567</span>
-                            <span class="code">manifests/p/P-StSoftware/WinSSHTerm/2.28.0/P-StSoftware.WinSSHTerm.yaml</span>
+                            <span class="code">288d49b4</span>
+                            <span class="code">manifests/p/PostgreSQL/pgAdmin/8.2/PostgreSQL.pgAdmin.yaml</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--8</span>
@@ -3157,7 +3157,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,8 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># Created using wingetcreate 1.2.7.0<br /></span><span class="token prefix deleted">-</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.4.0.schema.json<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">PackageIdentifier: P-StSoftware.WinSSHTerm<br /></span><span class="token prefix deleted">-</span><span class="token line">PackageVersion: 2.28.0<br /></span><span class="token prefix deleted">-</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestType: version<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestVersion: 1.4.0
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,8 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># Created using wingetcreate 1.5.7.0<br /></span><span class="token prefix deleted">-</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.5.0.schema.json<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">PackageIdentifier: PostgreSQL.pgAdmin<br /></span><span class="token prefix deleted">-</span><span class="token line">PackageVersion: "8.2"<br /></span><span class="token prefix deleted">-</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestType: version<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestVersion: 1.5.0
 </span></span></code>
                         </div>
                     </section>
@@ -3165,7 +3165,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2024, 20:16:06 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Apr 2024, 21:10:52 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
