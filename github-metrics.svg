@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2173 Commits
+                            2186 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            2145 Pull requests opened
+                            2295 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.14k added, 147 removed
+                                    4.16k added, 390 removed
                                 </div>
                             </section>
                             <section>
@@ -632,7 +632,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 84 commits)</small>
+                    <small class="h-details">(computed from last 82 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1884,7 +1884,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustreleaser-org/rustreleaser</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deliver Rust binaries as fast and easily as possible. Heavily inspired by @goreleaser. Please note that the project is in development stage, so breaking changes are expected. It is advised to not to use in production before v1.0.0 is released. Please support us by 🌟 the project 🙏</div>
@@ -1937,7 +1937,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustreleaser-org/rustreleaser-action</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action for RustReleaser</div>
@@ -2374,12 +2374,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#149816 Remove version: BlueMarbleGeographics.GlobalMapper version 24.00.0000</span>
+                                        <span class="issue">#149823 Remove version: bencoepp.kommod version 1.0.0.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">microsoft/winget-pkgs</span></div>
-                                    <div>3 files changed <span class="code">++0 --42</span></div>
+                                    <div>3 files changed <span class="code">++0 --34</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2395,10 +2395,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">BlueMarbleGeographics.GlobalMapper-24.00.0000-30F0C5D4040F64774B97088D9067D5B7A200B424</span></div>
+                                    <div>on branch <span class="code">bencoepp.kommod-1.0.0.0-CD4E3F7B00295DB7700AC16AA45C53D4CE3E56FB</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d4553d3</div>
-                                        <div class="message">Remove version: BlueMarbleGeographics.GlobalMapper version 24.00.0000</div>
+                                        <div class="sha">#97461df</div>
+                                        <div class="message">Remove version: bencoepp.kommod version 1.0.0.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -2415,86 +2415,88 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">BlueMarbleGeographics.GlobalMapper-24.00.0000-30F0C5D4040F64774B97088D9067D5B7A200B424</span></div>
+                                    <div>on branch <span class="code">bencoepp.kommod-1.0.0.0-CD4E3F7B00295DB7700AC16AA45C53D4CE3E56FB</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f2722a3</div>
-                                        <div class="message">New version: Bitvise.SSH.Client version 9.34 (#148655)</div>
+                                        <div class="sha">#c9bfedd</div>
+                                        <div class="message">Update: THS.THS version 9.30.10 (#148616)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#74f106e</div>
-                                        <div class="message">New version: Microsoft.Azure.StorageExplorer version 1.33.1 (#148654)</div>
+                                        <div class="sha">#355de47</div>
+                                        <div class="message">Kingsoft.KDocs version 3.9.9 (#148615)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1e9ad4b</div>
-                                        <div class="message">New version: danstis.rmstale version 1.15.2 (#148652)</div>
+                                        <div class="sha">#d386418</div>
+                                        <div class="message">New package: Gitbutler.GitButler version 0.11.0 (#148564)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#28f84d9</div>
-                                        <div class="message">New version: Tencent.WeChat version 3.9.10.19 (#148649)</div>
+                                        <div class="sha">#e53fea1</div>
+                                        <div class="message">Gridcoin.Client version 5.4.8 (#148614)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#601cd8a</div>
-                                        <div class="message">New version: DeepL.DeepL version 24.4.1.12205 (#148648)</div>
+                                        <div class="sha">#ea8691b</div>
+                                        <div class="message">Discord.Discord.Canary version 1.0.215 (#148612)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f8ffa86</div>
-                                        <div class="message">ReleaseNotes: Tencent.QQ.NT version 9.9.9.22868 (#148646)</div>
+                                        <div class="sha">#4cfe7b1</div>
+                                        <div class="message">Aserto.Topaz.v0.31.11 (#148610)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#49e35d8</div>
-                                        <div class="message">OctopusDeploy.Server version 2024.1.12401 (#148644)</div>
+                                        <div class="sha">#4b5dbed</div>
+                                        <div class="message">New version: eza-community.eza version 0.18.10 (#148611)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e5917b8</div>
-                                        <div class="message">New version: JLC.LCEDA.Pro version 2.1.56 (#148643)</div>
+                                        <div class="sha">#5ef45d7</div>
+                                        <div class="message">New version: Hashicorp.Terraform version 1.8.0 (#148609)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d8acce9</div>
-                                        <div class="message">Remove version: BrightSign.BrightAuthorConfigurator version 1.02 (#147721)</div>
+                                        <div class="sha">#69c4faa</div>
+                                        <div class="message">New version: Kiraku.AudioJam version 2.7.1-527 (#148607)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1643528</div>
-                                        <div class="message">Remove version: Codemao.kitten version 3.8.2 (#147676)</div>
+                                        <div class="sha">#7aa281b</div>
+                                        <div class="message">New version: Douyu.DouyuLive version 8.6.9.0 (#148604)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e74a1d5</div>
-                                        <div class="message">Remove version: BigBangenterprises.DoubleKiller version 1.6.2.82 (#147722)</div>
+                                        <div class="sha">#f5de6d2</div>
+                                        <div class="message">New version: B3log.SiYuan version 3.0.9 (#148603)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#21f96dc</div>
-                                        <div class="message">Automatic deletion of AdGuard.AdGuard.Nightly 7.17.4684.0 (#147753)</div>
+                                        <div class="sha">#befb86e</div>
+                                        <div class="message">Modify: Cisco.Webex version 44.4.0.29298 (#148581)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#180556e</div>
-                                        <div class="message">Automatic deletion of RiotGames.LegendsOfRuneterra.Europe 82.0.1.1194 (#147624)</div>
+                                        <div class="sha">#c950740</div>
+                                        <div class="message">New version: TheBrowserCompany.Arc version 0.17.2.21183 (#148503)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f403151</div>
-                                        <div class="message">Automatic deletion of RiotGames.LegendsOfRuneterra.SEA 82.0.1.1194 (#147627)</div>
+                                        <div class="sha">#934a754</div>
+                                        <div class="message">New version: evilmartians.lefthook version 1.6.10 (#148501)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2db239e</div>
-                                        <div class="message">Automatic deletion of RiotGames.Valorant.NA 82.0.1.1194 (#147628)</div>
+                                        <div class="sha">#54156e7</div>
+                                        <div class="message">Automatic update of Argotronic.ArgusMonitor from 7.0.6.2741 to 7.0.6.2742 (#148405)
+
+Co-authored-by: Stephen Gillie &lt;114952565+stephengillie@users.noreply.github.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e395556</div>
-                                        <div class="message">Automatic deletion of RiotGames.Valorant.BR 82.0.1.1194 (#147625)</div>
+                                        <div class="sha">#9fac3e0</div>
+                                        <div class="message">Remove version: PostgreSQL.pgAdmin version 8.2 (#148680)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c98e37e</div>
-                                        <div class="message">Automatic deletion of RiotGames.Valorant.EU 82.0.1.1194 (#147623)</div>
+                                        <div class="sha">#eaef4d4</div>
+                                        <div class="message">Remove version: PostgreSQL.pgAdmin version 8.0 (#148681)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#07c2639</div>
-                                        <div class="message">Automatic deletion of RiotGames.Valorant.AP 82.0.1.1194 (#147626)</div>
+                                        <div class="sha">#caeb6ea</div>
+                                        <div class="message">Remove version: PostgreSQL.pgAdmin version 8.1 (#148679)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4155446</div>
-                                        <div class="message">Automatic deletion of RiotGames.LegendsOfRuneterra.Americas 82.0.1.1194 (#147621)</div>
+                                        <div class="sha">#457139e</div>
+                                        <div class="message">New version: SomePythonThings.WingetUIStore version 3.0.2 (#148675)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8bacc60</div>
-                                        <div class="message">Remove Manifest-Path-Error on PR re-run and changes pushed (#148632)</div>
+                                        <div class="sha">#9fb2d6c</div>
+                                        <div class="message">Microsoft.DotNet.SDK.Preview version 9.0.100-preview.3.24204.13 (#148673)</div>
                                     </div>
                                 </div>
                             </section>
@@ -2508,7 +2510,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">BlueMarbleGeographics.GlobalMapper-24.00.0000-30F0C5D4040F64774B97088D9067D5B7A200B424</span>
+                                        <span class="code">bencoepp.kommod-1.0.0.0-CD4E3F7B00295DB7700AC16AA45C53D4CE3E56FB</span>
                                         in
                                         <span class="repo">Exorcism0666/winget-pkgs</span>
                                     </div>
@@ -2523,12 +2525,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#149815 Remove version: Bin-Huang.Chatbox version 0.6.7</span>
+                                        <span class="issue">#149816 Remove version: BlueMarbleGeographics.GlobalMapper version 24.00.0000</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">microsoft/winget-pkgs</span></div>
-                                    <div>4 files changed <span class="code">++0 --88</span></div>
+                                    <div>3 files changed <span class="code">++0 --42</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2638,7 +2640,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="128.13333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="143.63333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2666,7 +2668,7 @@
                                     <span class="prefix">Master</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 2240 pull requests</div>
+                                <div class="text">Opened 2390 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2949,7 +2951,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 139k out of 198m repositories</span>
+                                    <span class="gh">ranked 139k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 307 stars</div>
                             </div>
@@ -3213,7 +3215,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 18 Apr 2024, 03:21:15
+                            On 18 Apr 2024, 03:20:45
                         </div>
                     </section>
                 </div>
@@ -3249,7 +3251,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2024, 17:14:02 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Apr 2024, 18:17:01 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
