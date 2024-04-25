@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            2383 Pull requests opened
+                            2384 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.64k added, 808 removed
+                                    4.25k added, 807 removed
                                 </div>
                             </section>
                             <section>
@@ -637,7 +637,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 38.8 characters per line of code written</li>
+                        <li>Has approximately 39.1 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -1893,7 +1893,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saveweb/pukiwiki-dumper</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool for archiving PukiWiki</div>
@@ -2385,29 +2385,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">saveweb/pukiwiki-dumper</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#151044 Remove version: JTL.Wawi version 1.7.8.1</span>
+                                        <span class="issue">#151069 New version: taers232c.GAMADV-XTD3 version 6.74.02</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">microsoft/winget-pkgs</span></div>
-                                    <div>4 files changed <span class="code">++0 --45</span></div>
+                                    <div>3 files changed <span class="code">++114 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2423,10 +2410,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">JTL.Wawi-1.7.8.1-DF1EEB29319AE2E47DB7DA9AE468DAA436354C9F</span></div>
+                                    <div>on branch <span class="code">taers232c.GAMADV-XTD3-6.74.02-1766859260</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f4ccb6</div>
-                                        <div class="message">Remove version: JTL.Wawi version 1.7.8.1</div>
+                                        <div class="sha">#c154900</div>
+                                        <div class="message">New version: taers232c.GAMADV-XTD3 version 6.74.02</div>
                                     </div>
                                 </div>
                             </section>
@@ -2443,86 +2430,92 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">JTL.Wawi-1.7.8.1-DF1EEB29319AE2E47DB7DA9AE468DAA436354C9F</span></div>
+                                    <div>on branch <span class="code">taers232c.GAMADV-XTD3-6.74.02-1766859260</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6e7511b</div>
-                                        <div class="message">New package: MySky.EntraPassWeb version 8.41.2.0 (#149677)</div>
+                                        <div class="sha">#fdce723</div>
+                                        <div class="message">New version: stacklok.minder 0.0.40 (#147870)
+
+Co-authored-by: stacklokbot &lt;info@stacklok.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#246dcce</div>
-                                        <div class="message">New version: CodecGuide.K-LiteCodecPack.Mega version 18.3.0 (#149657)</div>
+                                        <div class="sha">#08f10ad</div>
+                                        <div class="message">New version: SWI-Prolog.SWI-Prolog version 9.2.3 (#147869)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b0088f6</div>
-                                        <div class="message">New version: Logitech.OptionsPlus version 1.70.551909 (#149655)</div>
+                                        <div class="sha">#f1b0d26</div>
+                                        <div class="message">New version: xavidop.cxcli 1.190.0 (#147873)
+
+Co-authored-by: goreleaserbot &lt;bot@goreleaser.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a2234ff</div>
-                                        <div class="message">New package: jeffvli.Feishin version 0.6.1 (#149652)</div>
+                                        <div class="sha">#f5d755b</div>
+                                        <div class="message">New version: xavidop.cxcli 1.191.0 (#147874)
+
+Co-authored-by: goreleaserbot &lt;bot@goreleaser.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#18e5cbe</div>
-                                        <div class="message">Microsoft.Edge.Dev version 125.0.2518.0 (#149752)</div>
+                                        <div class="sha">#a531556</div>
+                                        <div class="message">New version: CologneCodeCompany.XYplorer version 25.80.0200 (#147871)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2ad17ab</div>
-                                        <div class="message">New version: Balena.BalenaCLI version 18.2.0 (#149747)</div>
+                                        <div class="sha">#9ed8d6d</div>
+                                        <div class="message">New version: Neemb.Distill version 3.9.11-beta (#147876)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dca1da2</div>
-                                        <div class="message">New version: Cisco.ClamAV version 1.3.1 (#149750)</div>
+                                        <div class="sha">#cd474a4</div>
+                                        <div class="message">Add vvvv.gamma Version 6.0 (#147880)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0d0df0c</div>
-                                        <div class="message">Automatic update of Surfshark.Surfshark from 5.6.3999 to 5.7.0999 (#149744)</div>
+                                        <div class="sha">#0f73b02</div>
+                                        <div class="message">[metadata]: tsl0922.ttyd version 1.7.4 (#147878)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#68a3c4e</div>
-                                        <div class="message">New version: manosim.gitify version 5.4.0 (#149745)</div>
+                                        <div class="sha">#c571675</div>
+                                        <div class="message">OctopusDeploy.Tentacle version 8.1.1282 (#147883)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4ee9a5d</div>
-                                        <div class="message">New version: Google.Chrome.Beta.EXE version 125.0.6422.4 (#149671)</div>
+                                        <div class="sha">#7769bc8</div>
+                                        <div class="message">Add Stoplight.Spectral 6.11.1 (#147890)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#11cbebe</div>
-                                        <div class="message">New version: Google.Chrome.Beta version 125.0.6422.4 (#149670)</div>
+                                        <div class="sha">#8e68748</div>
+                                        <div class="message">New version: GoLang.Go version 1.21.9 (#147891)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6477fb6</div>
-                                        <div class="message">Remove version: WHTA.Tamara version 2024.0.0.1 (#149667)</div>
+                                        <div class="sha">#9a1d369</div>
+                                        <div class="message">New version: VSCodium.VSCodium version 1.88.0.24096 (#147893)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b6de773</div>
-                                        <div class="message">New version: pnpm.pnpm version 9.0.2 (#149662)</div>
+                                        <div class="sha">#bcb81df</div>
+                                        <div class="message">Remove: Viber.Viber version 22.3.0.0 (#147899)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ff3b2b6</div>
-                                        <div class="message">New version: JetBrains.ReSharper version 2024.1.1 (#149663)</div>
+                                        <div class="sha">#5b05237</div>
+                                        <div class="message">Fix: Microsoft.RemoteDesktopClient version 1.2.5112.0 (#147844)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b1ffd53</div>
-                                        <div class="message">New version: KuaiFan.DooTask version 0.36.75 (#149661)</div>
+                                        <div class="sha">#88f8949</div>
+                                        <div class="message">Fix: Microsoft.RemoteDesktopClient version 1.2.5255.0 (#147845)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#efe7859</div>
-                                        <div class="message">New version: KuaiFan.DooTask version 0.36.75 (#149660)</div>
+                                        <div class="sha">#c8694e9</div>
+                                        <div class="message">Fix: Microsoft.RemoteDesktopClient version 1.2.5326.0 (#147846)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1e3e2f8</div>
-                                        <div class="message">Update version: Gitbutler.GitButler version 0.11.2 (#149658)</div>
+                                        <div class="sha">#2d18e20</div>
+                                        <div class="message">Automatic deletion of SiberSystems.RoboForm 9.5.6.6 (#147015)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e5e2b79</div>
-                                        <div class="message">New version: Elsevier.MendeleyReferenceManager version 2.112.2 (#149654)</div>
+                                        <div class="sha">#aeb71a8</div>
+                                        <div class="message">New version: Unity.Unity.2023 version 2023.2.15f1 (#145860)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1812c9e</div>
-                                        <div class="message">New version: Brave.Brave.Nightly version 124.1.67.18 (#149653)</div>
+                                        <div class="sha">#3546fd2</div>
+                                        <div class="message">New version: JetBrains.CLion.EAP version 241.14494.154 (#145880)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e6dac19</div>
-                                        <div class="message">New version: FredEmmott.OpenKneeboard version 1.8.1 (#149651)</div>
+                                        <div class="sha">#bc63171</div>
+                                        <div class="message">New version: Jackett.Jackett version 0.21.2284 (#147842)</div>
                                     </div>
                                 </div>
                             </section>
@@ -2536,9 +2529,22 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">JTL.Wawi-1.7.8.1-DF1EEB29319AE2E47DB7DA9AE468DAA436354C9F</span>
+                                        <span class="code">taers232c.GAMADV-XTD3-6.74.02-1766859260</span>
                                         in
                                         <span class="repo">Exorcism0666/winget-pkgs</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">saveweb/pukiwiki-dumper</span>
                                     </div>
                                 </div>
                             </section>
@@ -2649,7 +2655,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="152.72666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="152.82999999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2677,7 +2683,7 @@
                                     <span class="prefix">Master</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 2478 pull requests</div>
+                                <div class="text">Opened 2479 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2960,7 +2966,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 139k out of 176m repositories</span>
+                                    <span class="gh">ranked 139k out of 171m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 309 stars</div>
                             </div>
@@ -3224,7 +3230,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 25 Apr 2024, 15:07:55
+                            On 25 Apr 2024, 15:08:06
                         </div>
                     </section>
                 </div>
@@ -3234,14 +3240,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            New version: Balena.BalenaCLI version 18.2.0 (#149747)
+                            New version: Cisco.ClamAV version 1.3.1 (#149750)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">2ad17ab8</span>
-                            <span class="code">manifests/b/Balena/BalenaCLI/18.2.0/Balena.BalenaCLI.yaml</span>
+                            <span class="code">dca1da20</span>
+                            <span class="code">manifests/c/Cisco/ClamAV/1.3.1/Cisco.ClamAV.yaml</span>
                             <span class="code">
                                 <span class="snippet additions">++8</span>
                                 <span class="snippet deletions">--0</span>
@@ -3252,7 +3258,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Created with komac v2.2.1<br /></span><span class="token prefix inserted">+</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">PackageIdentifier: Balena.BalenaCLI<br /></span><span class="token prefix inserted">+</span><span class="token line">PackageVersion: 18.2.0<br /></span><span class="token prefix inserted">+</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix inserted">+</span><span class="token line">ManifestType: version<br /></span><span class="token prefix inserted">+</span><span class="token line">ManifestVersion: 1.6.0
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Created with komac v2.2.1<br /></span><span class="token prefix inserted">+</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">PackageIdentifier: Cisco.ClamAV<br /></span><span class="token prefix inserted">+</span><span class="token line">PackageVersion: 1.3.1<br /></span><span class="token prefix inserted">+</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix inserted">+</span><span class="token line">ManifestType: version<br /></span><span class="token prefix inserted">+</span><span class="token line">ManifestVersion: 1.6.0
 </span></span></code>
                         </div>
                     </section>
@@ -3260,7 +3266,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2024, 21:11:44 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Apr 2024, 22:13:21 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
