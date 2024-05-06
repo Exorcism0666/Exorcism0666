@@ -1893,7 +1893,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saveweb/pukiwiki-dumper</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool for archiving PukiWiki</div>
@@ -2980,7 +2980,7 @@ Please carefully review these Pull Request before merging. If it is a Pull Reque
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 138k out of 206m repositories</span>
+                                    <span class="gh">ranked 138k out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 311 stars</div>
                             </div>
@@ -3280,7 +3280,7 @@ Please carefully review these Pull Request before merging. If it is a Pull Reque
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2024, 16:13:36 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 May 2024, 17:14:19 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
