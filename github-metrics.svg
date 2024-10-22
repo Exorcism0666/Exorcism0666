@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3877" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3804" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.01k added, 243 removed
+                                    36.2k added, 21.2k removed
                                 </div>
                             </section>
                             <section>
@@ -529,7 +529,7 @@
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Mostly pushes code around 08:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -2503,12 +2503,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#184887 Remove version: NumeRe.NumeRe version 1.1.4.2209</span>
+                                        <span class="issue">#184909 Remove version: NetEase.MCLauncher version 1.14.0.36188</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">microsoft/winget-pkgs</span></div>
-                                    <div>4 files changed <span class="code">++0 --104</span></div>
+                                    <div>4 files changed <span class="code">++0 --88</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2524,10 +2524,26 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">NumeRe.NumeRe-1.1.4.2209-AEAF401E5DF27B1A2B375E03CEC1DB932A1E7E0E</span></div>
+                                    <div>on branch <span class="code">NetEase.MCLauncher-1.14.0.36188-5A2FD7194E492713D9C4A680DE254309E6FBDF5A</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1e9cf94</div>
-                                        <div class="message">Remove version: NumeRe.NumeRe version 1.1.4.2209</div>
+                                        <div class="sha">#f0045e0</div>
+                                        <div class="message">Remove version: NetEase.MCLauncher version 1.14.0.36188</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">NetEase.MCLauncher-1.14.0.36188-5A2FD7194E492713D9C4A680DE254309E6FBDF5A</span>
+                                        in
+                                        <span class="repo">Exorcism0666/winget-pkgs</span>
                                     </div>
                                 </div>
                             </section>
@@ -2540,12 +2556,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#184886 Remove version: NumeRe.NumeRe version 1.1.3</span>
+                                        <span class="issue">#184908 Remove version: Nikkho.FileOptimizer version 15.7.0.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">microsoft/winget-pkgs</span></div>
-                                    <div>4 files changed <span class="code">++0 --108</span></div>
+                                    <div>3 files changed <span class="code">++0 --448</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2561,30 +2577,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">NumeRe.NumeRe-1.1.3-6F1ED698A74506F41FDD9E6C9EF52F3897B92C1C</span></div>
+                                    <div>on branch <span class="code">Nikkho.FileOptimizer-15.7.0.0-7E1DAC20D10288A21F06C77375514C894DA70DE0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#35a6c85</div>
-                                        <div class="message">Remove version: NumeRe.NumeRe version 1.1.3</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Exorcism0666/winget-pkgs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">NumeRe.NumeRe-1.1.5.2305-63399BB6DC0F63DA7737ADF7B9F1A383168A6BF4</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6032722</div>
-                                        <div class="message">Remove version: NumeRe.NumeRe version 1.1.5.2305</div>
+                                        <div class="sha">#0663ac2</div>
+                                        <div class="message">Remove version: Nikkho.FileOptimizer version 15.7.0.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -2900,7 +2896,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.37m out of 147m users</span>
+                                    <span class="gh">ranked 3.37m out of 145m users</span>
                                 </div>
                                 <div class="text">Published 19 public repositories</div>
                             </div>
@@ -3005,7 +3001,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 134k out of 210m repositories</span>
+                                    <span class="gh">ranked 134k out of 187m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 344 stars</div>
                             </div>
@@ -3123,7 +3119,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 924k out of 147m users</span>
+                                    <span class="gh">ranked 924k out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -3269,7 +3265,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 22 Oct 2024, 05:22:03
+                            On 21 Oct 2024, 08:39:33
                         </div>
                     </section>
                 </div>
@@ -3279,17 +3275,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Remove version: NumeRe.NumeRe version 1.1.5.2303
+                            Remove version: DominikReichl.KeePass version 2.47.0.0
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">de66d68b</span>
-                            <span class="code">manifests/n/NumeRe/NumeRe/1.1.5.2303/NumeRe.NumeRe.yaml</span>
+                            <span class="code">b38649fa</span>
+                            <span class="code">manifests/d/DominikReichl/KeePass/2.47.0.0/DominikReichl.KeePass.yaml</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
-                                <span class="snippet deletions">--8</span>
+                                <span class="snippet deletions">--6</span>
                             </span>
                         </div>
                     </section>
@@ -3297,15 +3293,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,8 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># Created using wingetcreate 1.2.5.0<br /></span><span class="token prefix deleted">-</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.2.0.schema.json<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">PackageIdentifier: NumeRe.NumeRe<br /></span><span class="token prefix deleted">-</span><span class="token line">PackageVersion: 1.1.5.2303<br /></span><span class="token prefix deleted">-</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestType: version<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestVersion: 1.2.0
-</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.0.0.schema.json<br /></span><span class="token prefix deleted">-</span><span class="token line">PackageIdentifier: DominikReichl.KeePass<br /></span><span class="token prefix deleted">-</span><span class="token line">PackageVersion: 2.47.0.0<br /></span><span class="token prefix deleted">-</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestType: version<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestVersion: 1.0.0</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2024, 14:32:32 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2024, 15:24:54 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
