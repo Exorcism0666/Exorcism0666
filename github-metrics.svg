@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            11736 Commits
+                            11738 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            8413 Pull requests opened
+                            8414 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    0 added, 0 removed
+                                    276 added, 2 removed
                                 </div>
                             </section>
                             <section>
@@ -384,13 +384,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.0307048599936" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="249.0307048599936" y="0" width="165.40220148052782" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="414.4329063405214" y="0" width="39.80369488252334" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.2366012230447" y="0" width="2.6708722240102993" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.90747344705505" y="0" width="2.5488767299645962" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.4563501770196" y="0" width="0.298474412616672" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.75482458963626" y="0" width="0.24517541036369486" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.30792057312425" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="249.30792057312425" y="0" width="165.1848613732559" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="414.49278194638015" y="0" width="39.75139243891526" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.2441743852954" y="0" width="2.667362671836991" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.91153705713236" y="0" width="2.545527481061288" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.45706453819366" y="0" width="0.2980822143250207" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.75514675251867" y="0" width="0.24485324748126702" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1741,7 +1741,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        203
+                                        204
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2360,7 +2360,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="838.3433333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="838.4466666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2388,7 +2388,7 @@
                                     <span class="prefix">Master</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 9113 pull requests</div>
+                                <div class="text">Opened 9114 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2671,7 +2671,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 134k out of 235m repositories</span>
+                                    <span class="gh">ranked 134k out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 360 stars</div>
                             </div>
@@ -2974,7 +2974,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 3 Feb 2025, 03:11:27
+                            On 3 Feb 2025, 02:57:58
                         </div>
                     </section>
                 </div>
@@ -2984,14 +2984,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Remove version: JohnnyTech.Bluebook.AbbFixer version UNKNOWN
+                            Remove version: ChristianKindahl.InfraRecorder version 0.53.00.00
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">962667a5</span>
-                            <span class="code">manifests/j/JohnnyTech/Bluebook/AbbFixer/UNKNOWN/JohnnyTech.Bluebook.AbbFixer.yaml</span>
+                            <span class="code">b31ac008</span>
+                            <span class="code">manifests/c/ChristianKindahl/InfraRecorder/0.53.00.00/ChristianKindahl.InfraRecorder.yaml</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--8</span>
@@ -3002,15 +3002,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,8 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># Created using wingetcreate 1.6.5.0<br /></span><span class="token prefix deleted">-</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">PackageIdentifier: JohnnyTech.Bluebook.AbbFixer<br /></span><span class="token prefix deleted">-</span><span class="token line">PackageVersion: UNKNOWN<br /></span><span class="token prefix deleted">-</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestType: version<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestVersion: 1.6.0
-</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,8 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># Created with YamlCreate.ps1 v2.4.3 $debug=AUSU.CRLF.7-4-6.Win32NT<br /></span><span class="token prefix deleted">-</span><span class="token line"># yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.9.0.schema.json<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">PackageIdentifier: ChristianKindahl.InfraRecorder<br /></span><span class="token prefix deleted">-</span><span class="token line">PackageVersion: 0.53.00.00<br /></span><span class="token prefix deleted">-</span><span class="token line">DefaultLocale: en-US<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestType: version<br /></span><span class="token prefix deleted">-</span><span class="token line">ManifestVersion: 1.9.0</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Feb 2025, 17:20:39 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Feb 2025, 18:15:01 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
