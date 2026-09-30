@@ -1996,7 +1996,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lenormandien/lenovo-14w-gen2-touchpad-fix</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Correctif automatique du touchpad ELAN0643 sur Lenovo 14w Gen 2 sous Linux, via patch ACPI DSDT.</div>
@@ -2581,7 +2581,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2026, 16:22:02 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2026, 21:43:47 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
