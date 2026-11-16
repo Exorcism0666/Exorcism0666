@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            73036 Commits
+                            73037 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -384,14 +384,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="149.94355045488535" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="149.94355045488535" y="0" width="121.83210656814956" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="271.7756570230349" y="0" width="88.03699223936218" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="359.8126492623971" y="0" width="47.85732025082124" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="407.66996951321835" y="0" width="26.856639634427108" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="434.52660914764544" y="0" width="16.69655382574878" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="451.2231629733942" y="0" width="6.961323000135587" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.1844859735298" y="0" width="1.8155140264702052" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.7563956827886" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="150.7563956827886" y="0" width="121.51271103041891" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="272.2691067132075" y="0" width="87.80619410848728" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="360.0753008216948" y="0" width="47.731857308691865" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="407.80715813038665" y="0" width="26.786232160573917" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="434.59339029096054" y="0" width="16.652782073477212" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="451.2461723644378" y="0" width="6.9430731679232425" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.1892455323611" y="0" width="1.8107544676389897" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2068,7 +2068,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        258
+                                        263
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2081,7 +2081,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        297
+                                        298
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2100,7 +2100,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CuteTenshii/BlockExtremeDroiteAndroid</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Appli Android qui bloque automatiquement les comptes listés sur onbloquelextremedroite.fun</div>
@@ -2638,7 +2638,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2026, 08:26:44 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 16 Nov 2026, 18:37:08 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
